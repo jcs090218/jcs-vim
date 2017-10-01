@@ -51,6 +51,10 @@ endfunction
 set nu
 set autoindent
 
+" No backup file.
+set nobackup
+set nowritebackup
+
 set colorcolumn=80
 set tabstop=2
 set bg=dark
