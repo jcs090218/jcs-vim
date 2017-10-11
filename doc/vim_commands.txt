@@ -25,6 +25,8 @@
 | :split filename | Split the window and open file in another window.                            |
 | :e filename     | Create/Edit the file.                                                        |
 |-----------------+------------------------------------------------------------------------------|
+| :PluginInstall  | Install plugin using Vundle manager.                                         |
+|-----------------+------------------------------------------------------------------------------|
 
 |-------------+-------------|
 | Insert Mode | Description |
