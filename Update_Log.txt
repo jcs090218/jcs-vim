@@ -7,6 +7,9 @@
 # ========================================================================
 
 
+2017-10-12
+* Fist add plugin key bindings. (jcs-vim-init)
+
 2017-10-11
 * First draft of vim keybindings document. (jcs-vim-init)
 * Start using some plugins. (jcs-vim-init)
