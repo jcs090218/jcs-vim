@@ -19,6 +19,7 @@
 | :x              | to write and quit. (similar to :wq, but won't write if there are no changes) |
 | :qw             | to quit all (short for :quitall)                                             |
 | :exit           | to write and exit.                                                           |
+| :w              | Write the file.                                                              |
 |-----------------+------------------------------------------------------------------------------|
 | :vsplit or :vsp | split screen veritcally.                                                     |
 | :split or :sp   | split screen horizontally.                                                   |
