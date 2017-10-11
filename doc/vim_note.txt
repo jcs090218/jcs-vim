@@ -1,0 +1,33 @@
+# ========================================================================
+# $File: vim_note.txt $
+# $Date: 2017-10-09 15:00:09 $
+# $Revision: $
+# $Creator: Jen-Chieh Shen $
+# $Notice: See LICENSE.txt for modification and distribution information
+#                   Copyright (c) 2017 by Shen, Jen-Chieh $
+# ========================================================================
+
+
+|-----------------+------------------------------------------------------------------------------|
+| Comamnds Mode   | Description                                                                  |
+|-----------------+------------------------------------------------------------------------------|
+| :q              | Quit                                                                         |
+| :q!             | Quit without saving.                                                         |
+| :wq             | to write and quit.                                                           |
+| :wq!            | to write and quit even if file has only read                                 |
+|                 | permission. (if file does not have write permission: force write.            |
+| :x              | to write and quit. (similar to :wq, but won't write if there are no changes) |
+| :qw             | to quit all (short for :quitall)                                             |
+| :exit           | to write and exit.                                                           |
+|-----------------+------------------------------------------------------------------------------|
+| :vsplit or :vsp | split screen veritcally.                                                     |
+| :split or :sp   | split screen horizontally.                                                   |
+| :split filename | Split the window and open file in another window.                            |
+| :e filename     | Create/Edit the file.                                                        |
+|-----------------+------------------------------------------------------------------------------|
+
+|-------------+-------------|
+| Insert Mode | Description |
+|-------------+-------------|
+|             |             |
+|-------------+-------------|
