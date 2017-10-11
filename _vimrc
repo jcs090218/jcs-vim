@@ -42,11 +42,20 @@ filetype plugin indent on     " required
 " => Plugins
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+"~~~~~~~~~~~~~~~~~~~~~~
+" => vim airline
+
+
 " set status line
 set laststatus=2
 
 " enable powerline-fonts
 let g:airline_powerline_fonts = 1
+
+"~~~~~~~~~~~~~~~~~~~~~~
+" => NERD tree
+
+map <C-l> :NERDTreeToggle<CR>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Start Customization
@@ -65,9 +74,12 @@ set tabstop=2
 set bg=dark
 colors elflord
 
-set guioptions-=m  "menu bar
-set guioptions-=T  "toolbar
-set guioptions-=r  "scrollbar
+set guioptions-=m  " menu bar
+set guioptions-=T  " toolbar
+set guioptions-=r  " scrollbar
+
+" Split screen at beginning.
+au VimEnter * vsplit
 
 "Always show current position
 set ruler
