@@ -15,7 +15,7 @@ set langmenu=en
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Plugins
+" => Plugins Manager
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 set nocompatible              " be iMproved, required
@@ -37,6 +37,16 @@ Plugin 'bling/vim-airline'
 
 filetype plugin indent on     " required
 
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Plugins
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" set status line
+set laststatus=2
+
+" enable powerline-fonts
+let g:airline_powerline_fonts = 1
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Start Customization
