@@ -8,7 +8,8 @@
 
 
 2017-10-12
-* Fist add plugin key bindings. (jcs-vim-init)
+* First add plugin key bindings. (jcs-vim-init)
+* First stamp history file. (jcs-vim-init)
 
 2017-10-11
 * First draft of vim keybindings document. (jcs-vim-init)
