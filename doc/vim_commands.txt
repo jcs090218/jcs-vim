@@ -20,6 +20,12 @@
 | :qw             | to quit all (short for :quitall)                                             |
 | :exit           | to write and exit.                                                           |
 | :w              | Write the file.                                                              |
+| :bd             | Buffer delete, close the file only.                                          |
+| :bd!            | Do :bd even without permission.                                              |
+| :bw             | Completely erased (wipeout) the buffer from storage.                         |
+| :bw!            | Do :bw even without permission.                                              |
+| :bun            | Deleted the buffer from storage, but left it in the list of buffers.         |
+| :close          | To close current split. The buffer are not deleted.                          |
 |-----------------+------------------------------------------------------------------------------|
 | :vsplit or :vsp | split screen veritcally.                                                     |
 | :split or :sp   | split screen horizontally.                                                   |
