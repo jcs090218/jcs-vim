@@ -2,15 +2,15 @@
 ""------------------------------------------------------------------------------------------------------
 
 "" This is my super-poopy _vimrc file.
-"" I barely know how to program Vim script.
-""  So take everything in this file with a 
+"" I barely know how to program Vim Script.
+"" So take everything in this file with a
 "" grain of salt!
 ""
-"" - JenChieh 
+"" - JenChieh
 
 " sets the language of the menu (gvim)
 set langmenu=en_US.UTF-8
-let $LANG='en' 
+let $LANG='en'
 set langmenu=en
 
 
@@ -23,16 +23,15 @@ filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/vundle.vim                  "" For Unix
-set rtp+=C:\Users\JenChieh\.vim\bundle\vundle.vim  "" For Windows
 call vundle#rc()
 
 " let Vundle manage Vundle, required
 Plugin 'gmarik/vundle.vim'
 
-' NERD tree
+" NERD tree
 Plugin 'scrooloose/nerdtree'
 
-' vim-airline
+" vim-airline
 Plugin 'bling/vim-airline'
 
 filetype plugin indent on     " required
