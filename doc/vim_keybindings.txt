@@ -9,3 +9,5 @@ QUICK REFERENCE GUIDE FOR JEN-CHIEH'S .EMACS KEYBINDINGS
 
 C-w w           Switch to another screen according to arrow
                 keys/h,j,k,l keys.
+
+C-l             NERD tree plugin toggle.
