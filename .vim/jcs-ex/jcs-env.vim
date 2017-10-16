@@ -72,6 +72,7 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+
 """"""""""""""""""""""""""""""
 " => Status line
 """"""""""""""""""""""""""""""
@@ -80,6 +81,13 @@ set laststatus=2
 
 " Format the status line
 set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l\ \ Column:\ %c
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Text, tab and indent related
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Make backspace delete the current line break.
+set backspace=indent,eol,start
 
 
 ""------------------------------------------------------------------------------------------------------
