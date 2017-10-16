@@ -7,6 +7,10 @@
 # ========================================================================
 
 
+2017-10-16
+* Add basic feature with deleting the line break if starting of
+ the line. (jcs-vim-init)
+
 2017-10-12
 * First add plugin key bindings. (jcs-vim-init)
 * First stamp history file. (jcs-vim-init)
