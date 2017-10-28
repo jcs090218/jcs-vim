@@ -34,6 +34,10 @@ Plugin 'scrooloose/nerdtree'
 " vim-airline
 Plugin 'bling/vim-airline'
 
+" bufkill
+" URL(jenchieh): https://github.com/qpkorr/vim-bufkill
+Plugin 'qpkorr/vim-bufkill'
+
 filetype plugin indent on     " required
 
 
