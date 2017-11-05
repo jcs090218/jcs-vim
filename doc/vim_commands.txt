@@ -1,5 +1,5 @@
 # ========================================================================
-# $File: vim_note.txt $
+# $File: vim_commands.txt $
 # $Date: 2017-10-09 15:00:09 $
 # $Revision: $
 # $Creator: Jen-Chieh Shen $
