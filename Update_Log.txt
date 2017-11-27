@@ -7,6 +7,9 @@
 # ========================================================================
 
 
+2017-11-27
+* Update doc with undo/redo note. (jcs-vim-init)
+
 2017-10-27
 * Add bufkill plugin. (jcs-vim-init)
 
