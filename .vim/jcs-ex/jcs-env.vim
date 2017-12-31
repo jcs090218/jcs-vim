@@ -14,7 +14,7 @@ set termencoding=utf-8
 set ffs=unix,dos,mac
 
 " Enable syntax highlighting
-syntax enable 
+syntax enable
 
 " Additional Changes
 set nu
@@ -43,7 +43,7 @@ set ruler
 set hlsearch
 
 " Makes search act like search in modern browsers
-set incsearch 
+set incsearch
 
 " Height of the command bar
 set cmdheight=2
