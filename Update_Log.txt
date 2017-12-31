@@ -7,6 +7,10 @@
 # ========================================================================
 
 
+2017-12-31
+* Make vimrc compatible to Unix system. (jcs-vim-init)
+* Add install vundle script record. (jcs-vim-init)
+
 2017-11-27
 * Update doc with undo/redo note. (jcs-vim-init)
 
