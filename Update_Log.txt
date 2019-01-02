@@ -7,6 +7,9 @@
 # ========================================================================
 
 
+2019-01-02
+* Remove history, no longer needed. (jcs-vim-init)
+
 2017-12-31
 * Make vimrc compatible to Unix system. (jcs-vim-init)
 * Add install vundle script record. (jcs-vim-init)
