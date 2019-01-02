@@ -46,24 +46,24 @@ filetype plugin indent on     " required
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 """ Environment.
-source ~/.vim/jcs-ex/jcs-env.vim
-source ~/.vim/jcs-ex/jcs-plugin.vim
+source ~/.vim.jcs/jcs-env.vim
+source ~/.vim.jcs/jcs-plugin.vim
 
 """ Customization
-source ~/.vim/jcs-ex/jcs-theme.vim
+source ~/.vim.jcs/jcs-theme.vim
 
 """ Initialize
-source ~/.vim/jcs-ex/jcs-before-init.vim
+source ~/.vim.jcs/jcs-before-init.vim
 
 """ Utilities
 
 """ jcs-all-mode
-source ~/.vim/jcs-ex/ex-mode/jcs-cc-mode.vim
-source ~/.vim/jcs-ex/ex-mode/jcs-vimscript-mode.vim
-source ~/.vim/jcs-ex/ex-mode/jcs-elisp-mode.vim
+source ~/.vim.jcs/mode/jcs-cc-mode.vim
+source ~/.vim.jcs/mode/jcs-vimscript-mode.vim
+source ~/.vim.jcs/mode/jcs-elisp-mode.vim
 
 """ Do stuff after initialize.
-source ~/.vim/jcs-ex/jcs-after-init.vim
+source ~/.vim.jcs/jcs-after-init.vim
 
 
 ""------------------------------------------------------------------------------------------------------
