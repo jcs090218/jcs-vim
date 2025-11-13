@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
-[![Vim Version](https://img.shields.io/badge/Vim-9.1.1825+-099B39.svg?logo=gnu%20vim&logoColor=white)](https://www.vim.org/download.php)
+[![Vim Version](https://img.shields.io/badge/Vim-9.1.1825+-099B39.svg?logo=vim&logoColor=white)](https://www.vim.org/download.php)
 
 # jcs-vim
 
